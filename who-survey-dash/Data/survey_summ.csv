@@ -1,0 +1,480 @@
+"cluster_code","province","division","district","n_hh","n_hh_child","n_children"
+"1","AJK","Mirpur","Bhimber",7,4,14
+"100","AJK","Poonch","Bagh",6,6,16
+"101","AJK","Poonch","Bagh",6,6,17
+"102","AJK","Poonch","Bagh",6,6,13
+"106","AJK","Poonch","Bagh",6,5,10
+"107","AJK","Poonch","Bagh",6,6,23
+"108","AJK","Poonch","Bagh",6,5,12
+"109","AJK","Poonch","Bagh",6,5,11
+"110","AJK","Poonch","Haveli",6,5,16
+"113","AJK","Poonch","Haveli",6,3,6
+"114","AJK","Poonch","Haveli",6,4,9
+"115","AJK","Poonch","Haveli",6,3,12
+"116","AJK","Poonch","Haveli",6,3,8
+"118","AJK","Poonch","Poonch",1,1,6
+"12","AJK","Mirpur","Kotli",1,1,5
+"125","AJK","Poonch","Poonch",5,2,5
+"126","AJK","Poonch","Poonch",5,4,8
+"127","AJK","Poonch","Poonch",6,6,15
+"130","AJK","Poonch","Poonch",5,5,13
+"131","AJK","Poonch","Poonch",6,6,11
+"132","AJK","Poonch","Poonch",4,4,12
+"133","AJK","Poonch","Poonch",5,3,8
+"134","AJK","Poonch","Poonch",3,3,9
+"136","AJK","Poonch","Sudhnooti",6,4,9
+"137","AJK","Poonch","Sudhnooti",6,6,17
+"138","AJK","Poonch","Sudhnooti",6,4,11
+"140","AJK","Poonch","Sudhnooti",6,5,15
+"142","AJK","Poonch","Sudhnooti",6,5,14
+"143","AJK","Poonch","Sudhnooti",6,6,19
+"144","AJK","Poonch","Sudhnooti",7,3,7
+"148","Balochistan","Kalat","KALAT",6,4,15
+"154","Balochistan","Kalat","Khuzdar",4,4,14
+"155","Balochistan","Kalat","Khuzdar",6,6,19
+"156","Balochistan","Kalat","Khuzdar",5,4,15
+"157","Balochistan","Kalat","Khuzdar",4,3,12
+"159","Balochistan","Kalat","Khuzdar",6,6,19
+"16","AJK","Mirpur","Kotli",6,4,13
+"160","Balochistan","Kalat","Khuzdar",6,5,28
+"161","Balochistan","Kalat","Khuzdar",6,6,19
+"164","Balochistan","Kalat","Khuzdar",6,6,37
+"167","Balochistan","Kalat","Khuzdar",6,6,32
+"186","Balochistan","Kalat","Mastung",6,6,30
+"187","Balochistan","Kalat","Mastung",5,4,19
+"19","AJK","Mirpur","Kotli",5,5,16
+"2","AJK","Mirpur","Bhimber",6,5,12
+"20","AJK","Mirpur","Kotli",4,4,20
+"21","AJK","Mirpur","Kotli",6,5,14
+"221","Balochistan","Makran","Kech",1,1,1
+"225","Balochistan","Makran","Kech",6,6,10
+"226","Balochistan","Makran","Kech",5,5,14
+"229","Balochistan","Makran","Kech",6,6,14
+"230","Balochistan","Makran","Kech",3,3,8
+"231","Balochistan","Makran","Kech",6,6,12
+"232","Balochistan","Makran","Kech",6,6,13
+"243","Balochistan","Nasirabad","Bolan",6,5,12
+"244","Balochistan","Nasirabad","Bolan",6,5,20
+"25","AJK","Mirpur","Kotli",4,4,14
+"264","Balochistan","Nasirabad","Naseerabad",6,6,19
+"265","Balochistan","Nasirabad","Naseerabad",6,6,17
+"266","Balochistan","Nasirabad","Naseerabad",5,4,10
+"267","Balochistan","Nasirabad","Naseerabad",6,5,20
+"27","AJK","Mirpur","Kotli",6,4,6
+"270","Balochistan","Nasirabad","Naseerabad",5,5,20
+"271","Balochistan","Nasirabad","Naseerabad",6,5,14
+"272","Balochistan","Nasirabad","Naseerabad",5,3,7
+"273","Balochistan","Nasirabad","Naseerabad",5,4,25
+"275","Balochistan","Nasirabad","Naseerabad",6,5,12
+"276","Balochistan","Nasirabad","Naseerabad",5,4,8
+"277","Balochistan","Nasirabad","Naseerabad",4,4,12
+"278","Balochistan","Nasirabad","Naseerabad",5,5,18
+"279","Balochistan","Nasirabad","Naseerabad",5,3,8
+"28","AJK","Mirpur","Kotli",6,3,4
+"280","Balochistan","Nasirabad","Naseerabad",5,4,15
+"282","Balochistan","Nasirabad","Naseerabad",5,4,13
+"283","Balochistan","Nasirabad","Naseerabad",6,6,24
+"284","Balochistan","Nasirabad","Sohbatpur",6,5,31
+"285","Balochistan","Nasirabad","Sohbatpur",5,4,20
+"287","Balochistan","Nasirabad","Sohbatpur",5,5,27
+"288","Balochistan","Nasirabad","Sohbatpur",5,4,12
+"29","AJK","Mirpur","Kotli",6,6,21
+"295","Balochistan","Quetta","Chaman",1,1,2
+"299","Balochistan","Quetta","Quetta",6,5,13
+"3","AJK","Mirpur","Bhimber",6,4,16
+"30","AJK","Mirpur","Kotli",7,6,22
+"302","Balochistan","Quetta","Quetta",6,6,18
+"304","Balochistan","Quetta","Quetta",6,6,14
+"31","AJK","Mirpur","Mirpur",7,2,3
+"314","Balochistan","Quetta","Quetta",6,6,14
+"320","Balochistan","Quetta","Quetta",5,5,30
+"323","Balochistan","Quetta","Quetta",4,3,8
+"326","Balochistan","Quetta","Quetta",6,5,16
+"327","Balochistan","Quetta","Quetta",6,6,17
+"334","Balochistan","Quetta","Quetta",1,1,1
+"343","Balochistan","Rakhshan","Chagai",6,6,10
+"344","Balochistan","Rakhshan","Chagai",4,4,17
+"345","Balochistan","Rakhshan","Chagai",6,6,10
+"346","Balochistan","Rakhshan","Chagai",6,6,21
+"350","Balochistan","Rakhshan","Chagai",6,6,16
+"354","Balochistan","Rakhshan","Kharan",6,5,18
+"362","Balochistan","Rakhshan","Kharan",6,4,12
+"367","Balochistan","Rakhshan","NUSHKI",5,3,11
+"368","Balochistan","Rakhshan","NUSHKI",1,1,2
+"37","AJK","Mirpur","Mirpur",6,5,12
+"370","Balochistan","Rakhshan","NUSHKI",6,6,24
+"371","Balochistan","Rakhshan","NUSHKI",6,5,13
+"38","AJK","Mirpur","Mirpur",6,3,8
+"39","AJK","Mirpur","Mirpur",6,5,11
+"395","Balochistan","Sibi","Dera Bugti",1,1,6
+"4","AJK","Mirpur","Bhimber",6,6,19
+"40","AJK","Mirpur","Mirpur",6,3,8
+"417","Balochistan","Sibi","SIBI",6,6,24
+"418","Balochistan","Sibi","SIBI",6,6,26
+"419","Balochistan","Sibi","SIBI",5,4,11
+"42","AJK","Mirpur","Mirpur",3,3,6
+"420","Balochistan","Sibi","Sibi",6,6,18
+"421","Balochistan","Sibi","Sibi",6,5,11
+"422","Balochistan","Sibi","Sibi",6,6,20
+"423","Balochistan","Sibi","SIBI",6,4,11
+"43","AJK","Mirpur","Mirpur",6,3,8
+"44","AJK","Mirpur","Mirpur",6,3,6
+"445","Balochistan","Zhob","Zhob",4,4,9
+"447","Balochistan","Zhob","Zhob",1,1,1
+"45","AJK","Mirpur","Mirpur",6,3,7
+"46","AJK","Mirpur","Mirpur",6,5,13
+"47","AJK","Mirpur","Mirpur",6,5,13
+"48","AJK","Mirpur","Mirpur",5,2,8
+"483","Gilgit Baltistan","Baltistan","Ganche",6,6,14
+"484","Gilgit Baltistan","Baltistan","Ganche",6,5,15
+"486","Gilgit Baltistan","Baltistan","Ganche",6,5,15
+"487","Gilgit Baltistan","Baltistan","Ganche",5,4,18
+"489","Gilgit Baltistan","Baltistan","Ganche",6,5,15
+"492","Gilgit Baltistan","Baltistan","Kharmang",6,4,12
+"493","Gilgit Baltistan","Baltistan","Kharmang",6,4,9
+"494","Gilgit Baltistan","Baltistan","Kharmang",5,5,8
+"495","Gilgit Baltistan","Baltistan","Shigar",6,5,19
+"496","Gilgit Baltistan","Baltistan","Shigar",7,6,22
+"497","Gilgit Baltistan","Baltistan","Shigar",6,6,32
+"498","Gilgit Baltistan","Baltistan","Shigar",6,6,23
+"499","Gilgit Baltistan","Baltistan","Shigar",6,6,16
+"5","AJK","Mirpur","Bhimber",6,6,17
+"50","AJK","Muzaffarabad","Jhelum Vellay",7,6,31
+"500","Gilgit Baltistan","Baltistan","Shigar",6,6,23
+"510","Gilgit Baltistan","Baltistan","Skardu",6,4,7
+"515","Gilgit Baltistan","Baltistan","Skardu",6,5,14
+"517","Gilgit Baltistan","Baltistan","Skardu",6,6,17
+"518","Gilgit Baltistan","Baltistan","Skardu",6,5,20
+"519","Gilgit Baltistan","Baltistan","Skardu",6,5,15
+"520","Gilgit Baltistan","Baltistan","Skardu",6,6,22
+"521","Gilgit Baltistan","Baltistan","Skardu",6,5,15
+"522","Gilgit Baltistan","Baltistan","Skardu",6,6,22
+"523","Gilgit Baltistan","Baltistan","Skardu",6,5,16
+"524","Gilgit Baltistan","Baltistan","Skardu",6,4,8
+"525","Gilgit Baltistan","Baltistan","Skardu",6,5,10
+"529","Gilgit Baltistan","Diamer","Astore",5,5,23
+"53","AJK","Muzaffarabad","Jhelum Vellay",6,3,7
+"530","Gilgit Baltistan","Diamer","Astore",6,6,16
+"531","Gilgit Baltistan","Diamer","Astore",6,6,18
+"532","Gilgit Baltistan","Diamer","Astore",6,6,19
+"533","Gilgit Baltistan","Diamer","Astore",6,6,19
+"534","Gilgit Baltistan","Diamer","Astore",6,6,24
+"535","Gilgit Baltistan","Diamer","Astore",6,4,15
+"54","AJK","Muzaffarabad","Jhelum Vellay",6,3,5
+"544","Gilgit Baltistan","Diamer","Diamer",3,2,12
+"547","Gilgit Baltistan","Diamer","Diamer",6,6,32
+"55","AJK","Muzaffarabad","Jhelum Vellay",6,5,13
+"551","Gilgit Baltistan","Diamer","Diamer",6,6,35
+"552","Gilgit Baltistan","Diamer","Diamer",6,6,32
+"553","Gilgit Baltistan","Diamer","Diamer",5,4,15
+"554","Gilgit Baltistan","Diamer","Diamer",3,3,19
+"555","Gilgit Baltistan","Diamer","Diamer",6,6,30
+"557","Gilgit Baltistan","Diamer","Diamer",5,5,23
+"56","AJK","Muzaffarabad","Jhelum Vellay",6,6,14
+"562","Gilgit Baltistan","Diamer","Diamer",6,6,7
+"563","Gilgit Baltistan","Diamer","Diamer",6,6,8
+"564","Gilgit Baltistan","Diamer","Diamer",6,6,8
+"565","Gilgit Baltistan","Diamer","Diamer",6,6,9
+"566","Gilgit Baltistan","Diamer","Diamer",6,6,12
+"567","Gilgit Baltistan","Diamer","Diamer",6,4,6
+"568","Gilgit Baltistan","Diamer","Diamer",6,5,9
+"569","Gilgit Baltistan","Diamer","Diamer",6,6,26
+"571","Gilgit Baltistan","Diamer","Diamer",6,5,13
+"572","Gilgit Baltistan","Diamer","Diamer",6,6,18
+"574","Gilgit Baltistan","Diamer","Diamer",6,4,19
+"575","Gilgit Baltistan","Diamer","Diamer",6,6,29
+"576","Gilgit Baltistan","Diamer","Diamer",6,5,23
+"579","Gilgit Baltistan","Gilgit","Ghizer",3,3,27
+"580","Gilgit Baltistan","Gilgit","Ghizer",3,3,16
+"581","Gilgit Baltistan","Gilgit","Ghizer",3,3,12
+"583","Gilgit Baltistan","Gilgit","Ghizer",3,3,13
+"584","Gilgit Baltistan","Gilgit","Ghizer",3,3,15
+"585","Gilgit Baltistan","Gilgit","Ghizer",4,4,14
+"588","Gilgit Baltistan","Gilgit","Ghizer",3,3,16
+"589","Gilgit Baltistan","Gilgit","Ghizer",3,3,18
+"590","Gilgit Baltistan","Gilgit","Gilgit",5,5,9
+"591","Gilgit Baltistan","Gilgit","Gilgit",5,5,22
+"592","Gilgit Baltistan","Gilgit","Gilgit",5,4,21
+"593","Gilgit Baltistan","Gilgit","Gilgit",6,6,19
+"594","Gilgit Baltistan","Gilgit","Gilgit",6,5,17
+"595","Gilgit Baltistan","Gilgit","Gilgit",5,5,9
+"596","Gilgit Baltistan","Gilgit","Gilgit",6,5,9
+"600","Gilgit Baltistan","Gilgit","Gilgit",4,3,8
+"601","Gilgit Baltistan","Gilgit","Gilgit",4,4,22
+"602","Gilgit Baltistan","Gilgit","Gilgit",5,5,10
+"603","Gilgit Baltistan","Gilgit","Gilgit",5,4,7
+"604","Gilgit Baltistan","Gilgit","Gilgit",5,4,8
+"605","Gilgit Baltistan","Gilgit","Gilgit",5,5,17
+"606","Gilgit Baltistan","Gilgit","Gilgit",4,4,8
+"607","Gilgit Baltistan","Gilgit","Gilgit",6,5,11
+"609","Gilgit Baltistan","Gilgit","Gilgit",2,2,6
+"61","AJK","Muzaffarabad","Muzaffarabad",6,5,18
+"612","Gilgit Baltistan","Gilgit","Gilgit",4,3,8
+"613","Gilgit Baltistan","Gilgit","Gilgit",3,3,12
+"614","Gilgit Baltistan","Gilgit","Gilgit",5,5,22
+"621","Gilgit Baltistan","Gilgit","Nagar",6,6,14
+"622","Gilgit Baltistan","Gilgit","Nagar",6,6,38
+"623","Gilgit Baltistan","Gilgit","Nagar",5,4,13
+"624","Gilgit Baltistan","Gilgit","Nagar",6,6,18
+"625","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,11
+"626","Khyber PakhtunKhwa","Bannu","Bannu ",6,4,7
+"627","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,10
+"629","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,13
+"630","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,13
+"631","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,24
+"632","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,28
+"633","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,13
+"634","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,12
+"635","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,19
+"636","Khyber PakhtunKhwa","Bannu","Bannu ",6,5,11
+"637","Khyber PakhtunKhwa","Bannu","Bannu ",6,5,16
+"638","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,16
+"639","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,17
+"640","Khyber PakhtunKhwa","Bannu","Bannu ",6,6,20
+"643","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,26
+"644","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,5,22
+"645","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,22
+"647","Khyber PakhtunKhwa","Bannu","Lakki Marwat",5,3,9
+"648","Khyber PakhtunKhwa","Bannu","Lakki Marwat",4,4,10
+"649","Khyber PakhtunKhwa","Bannu","Lakki Marwat",5,4,28
+"650","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,5,18
+"651","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,25
+"652","Khyber PakhtunKhwa","Bannu","Lakki Marwat",5,3,11
+"653","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,4,15
+"654","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,17
+"655","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,5,11
+"656","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,15
+"657","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,2,6
+"658","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,5,20
+"659","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,4,12
+"660","Khyber PakhtunKhwa","Bannu","Lakki Marwat",4,4,20
+"661","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,26
+"662","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,5,20
+"665","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,14
+"669","Khyber PakhtunKhwa","Bannu","Lakki Marwat",5,5,24
+"67","AJK","Muzaffarabad","Muzaffarabad",6,5,10
+"671","Khyber PakhtunKhwa","Bannu","Lakki Marwat",6,6,24
+"673","Khyber PakhtunKhwa","DI Khan","DI Khan",7,7,14
+"674","Khyber PakhtunKhwa","DI Khan","DI Khan",6,3,7
+"675","Khyber PakhtunKhwa","DI Khan","DI Khan",6,5,9
+"676","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,11
+"678","Khyber PakhtunKhwa","DI Khan","DI Khan",6,4,12
+"679","Khyber PakhtunKhwa","DI Khan","DI Khan",6,5,9
+"68","AJK","Muzaffarabad","Muzaffarabad",6,6,23
+"681","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,12
+"682","Khyber PakhtunKhwa","DI Khan","DI Khan",3,3,15
+"683","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,10
+"684","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,13
+"686","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,9
+"687","Khyber PakhtunKhwa","DI Khan","DI Khan",5,5,18
+"688","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,13
+"69","AJK","Muzaffarabad","Muzaffarabad",6,5,12
+"690","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,9
+"691","Khyber PakhtunKhwa","DI Khan","DI Khan",6,5,12
+"692","Khyber PakhtunKhwa","DI Khan","DI Khan",6,5,14
+"694","Khyber PakhtunKhwa","DI Khan","DI Khan",6,4,10
+"697","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,13
+"698","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,17
+"7","AJK","Mirpur","Bhimber",6,5,13
+"70","AJK","Muzaffarabad","Muzaffarabad",6,4,14
+"700","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,11
+"702","Khyber PakhtunKhwa","DI Khan","DI Khan",6,5,8
+"703","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,16
+"704","Khyber PakhtunKhwa","DI Khan","DI Khan",6,5,13
+"705","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,10
+"706","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,8
+"707","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,15
+"708","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,10
+"710","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,15
+"711","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,14
+"714","Khyber PakhtunKhwa","DI Khan","DI Khan",6,6,14
+"715","Khyber PakhtunKhwa","DI Khan","DI Khan",6,3,11
+"716","Khyber PakhtunKhwa","DI Khan","Tank",6,6,25
+"717","Khyber PakhtunKhwa","DI Khan","Tank",6,5,15
+"718","Khyber PakhtunKhwa","DI Khan","Tank",6,6,22
+"719","Khyber PakhtunKhwa","DI Khan","Tank",6,5,30
+"72","AJK","Muzaffarabad","Muzaffarabad",6,4,8
+"73","AJK","Muzaffarabad","Muzaffarabad",5,5,16
+"733","Khyber PakhtunKhwa","Hazara","Abbottabad",6,6,13
+"734","Khyber PakhtunKhwa","Hazara","Abbottabad",5,5,11
+"735","Khyber PakhtunKhwa","Hazara","Abbottabad",6,6,10
+"736","Khyber PakhtunKhwa","Hazara","Abbottabad",6,6,18
+"739","Khyber PakhtunKhwa","Hazara","Abbottabad",6,6,15
+"742","Khyber PakhtunKhwa","Hazara","Abbottabad",6,5,10
+"744","Khyber PakhtunKhwa","Hazara","Abbottabad",6,5,18
+"746","Khyber PakhtunKhwa","Hazara","Haripur",6,4,11
+"748","Khyber PakhtunKhwa","Hazara","Haripur",6,6,19
+"749","Khyber PakhtunKhwa","Hazara","Haripur",5,5,11
+"75","AJK","Muzaffarabad","Muzaffarabad",6,5,13
+"750","Khyber PakhtunKhwa","Hazara","Haripur",6,4,13
+"751","Khyber PakhtunKhwa","Hazara","Haripur",6,5,11
+"752","Khyber PakhtunKhwa","Hazara","Haripur",6,4,13
+"753","Khyber PakhtunKhwa","Hazara","Haripur",6,5,9
+"754","Khyber PakhtunKhwa","Hazara","Haripur",6,5,16
+"755","Khyber PakhtunKhwa","Hazara","Haripur",6,4,6
+"756","Khyber PakhtunKhwa","Hazara","Mansehra",6,6,15
+"757","Khyber PakhtunKhwa","Hazara","Mansehra",6,6,17
+"758","Khyber PakhtunKhwa","Hazara","Mansehra",6,5,17
+"759","Khyber PakhtunKhwa","Hazara","Mansehra",6,6,16
+"760","Khyber PakhtunKhwa","Hazara","Mansehra",6,5,13
+"761","Khyber PakhtunKhwa","Hazara","Mansehra",6,5,21
+"762","Khyber PakhtunKhwa","Hazara","Mansehra",6,6,16
+"763","Khyber PakhtunKhwa","Hazara","Mansehra",6,4,10
+"766","Khyber PakhtunKhwa","Hazara","Mansehra",6,5,9
+"767","Khyber PakhtunKhwa","Hazara","Mansehra",6,4,7
+"768","Khyber PakhtunKhwa","Hazara","Mansehra",6,6,15
+"77","AJK","Muzaffarabad","Muzaffarabad",5,2,4
+"771","Khyber PakhtunKhwa","Kohat","Hangu",6,6,14
+"772","Khyber PakhtunKhwa","Kohat","Hangu",6,4,16
+"773","Khyber PakhtunKhwa","Kohat","Hangu",6,6,19
+"774","Khyber PakhtunKhwa","Kohat","Hangu",6,4,10
+"775","Khyber PakhtunKhwa","Kohat","Hangu",6,5,11
+"776","Khyber PakhtunKhwa","Kohat","Hangu",6,6,14
+"777","Khyber PakhtunKhwa","Kohat","Hangu",6,4,13
+"778","Khyber PakhtunKhwa","Kohat","Hangu",6,4,9
+"779","Khyber PakhtunKhwa","Kohat","Karak",6,5,10
+"78","AJK","Muzaffarabad","Muzaffarabad",6,5,7
+"780","Khyber PakhtunKhwa","Kohat","Karak",6,4,6
+"783","Khyber PakhtunKhwa","Kohat","Karak",6,4,9
+"784","Khyber PakhtunKhwa","Kohat","Kohat",6,6,16
+"785","Khyber PakhtunKhwa","Kohat","Kohat",6,6,11
+"786","Khyber PakhtunKhwa","Kohat","Kohat",5,5,15
+"789","Khyber PakhtunKhwa","Kohat","Kohat",6,6,22
+"79","AJK","Muzaffarabad","Muzaffarabad",5,3,10
+"790","Khyber PakhtunKhwa","Kohat","Kohat",6,6,27
+"791","Khyber PakhtunKhwa","Kohat","Kohat",6,6,11
+"796","Khyber PakhtunKhwa","Kohat","Kohat",6,5,12
+"797","Khyber PakhtunKhwa","Kohat","Kohat",3,3,6
+"798","Khyber PakhtunKhwa","Kohat","Kohat",6,5,12
+"799","Khyber PakhtunKhwa","Kohat","Kohat",6,3,7
+"80","AJK","Muzaffarabad","Muzaffarabad",6,4,11
+"800","Khyber PakhtunKhwa","Kohat","Kohat",6,6,15
+"801","Khyber PakhtunKhwa","Kohat","Kohat",6,5,15
+"802","Khyber PakhtunKhwa","Kohat","Kohat",6,5,8
+"803","Khyber PakhtunKhwa","Kohat","Kohat",7,6,14
+"806","Khyber PakhtunKhwa","Kohat","Kohat",6,6,15
+"808","Khyber PakhtunKhwa","Kohat","Kohat",6,6,17
+"81","AJK","Muzaffarabad","Muzaffarabad",6,5,14
+"810","Khyber PakhtunKhwa","Kohat","Kohat",6,5,18
+"811","Khyber PakhtunKhwa","Kohat","Kohat",6,3,10
+"813","Khyber PakhtunKhwa","Kohat","Kurram Upper",6,6,18
+"814","Khyber PakhtunKhwa","Kohat","Kurram Upper",6,5,13
+"815","Khyber PakhtunKhwa","Kohat","Kurram Upper",6,6,20
+"816","Khyber PakhtunKhwa","Kohat","Kurram Upper",6,6,18
+"817","Khyber PakhtunKhwa","Malakand","Chitral Lower",6,5,13
+"818","Khyber PakhtunKhwa","Malakand","Chitral Lower",6,5,15
+"820","Khyber PakhtunKhwa","Malakand","Dir Lower",6,6,19
+"821","Khyber PakhtunKhwa","Malakand","Dir Lower",6,6,20
+"822","Khyber PakhtunKhwa","Malakand","Dir Lower",6,6,27
+"823","Khyber PakhtunKhwa","Malakand","Dir Upper",6,5,33
+"824","Khyber PakhtunKhwa","Malakand","Dir Upper",6,5,13
+"825","Khyber PakhtunKhwa","Malakand","Malakand",6,6,22
+"826","Khyber PakhtunKhwa","Malakand","Malakand",6,6,21
+"827","Khyber PakhtunKhwa","Malakand","Malakand",6,6,21
+"828","Khyber PakhtunKhwa","Malakand","Swat",6,6,15
+"829","Khyber PakhtunKhwa","Malakand","Swat",6,6,14
+"830","Khyber PakhtunKhwa","Malakand","Swat",6,6,13
+"831","Khyber PakhtunKhwa","Malakand","Swat",6,6,17
+"832","Khyber PakhtunKhwa","Malakand","Swat",6,6,17
+"833","Khyber PakhtunKhwa","Malakand","Swat",6,5,12
+"834","Khyber PakhtunKhwa","Malakand","Swat",6,5,7
+"836","Khyber PakhtunKhwa","Malakand","Swat",6,6,20
+"837","Khyber PakhtunKhwa","Malakand","Swat",6,6,14
+"838","Khyber PakhtunKhwa","Malakand","Swat",6,6,10
+"839","Khyber PakhtunKhwa","Malakand","Swat",6,6,12
+"84","AJK","Muzaffarabad","Muzaffarabad",6,3,8
+"840","Khyber PakhtunKhwa","Malakand","Swat",6,6,14
+"841","Khyber PakhtunKhwa","Malakand","Swat",6,6,17
+"843","Khyber PakhtunKhwa","Malakand","Swat",6,6,14
+"844","Khyber PakhtunKhwa","Malakand","Swat",6,6,16
+"845","Khyber PakhtunKhwa","Malakand","Swat",6,6,18
+"847","Khyber PakhtunKhwa","Malakand","Swat",6,5,10
+"848","Khyber PakhtunKhwa","Malakand","Swat",6,6,15
+"849","Khyber PakhtunKhwa","Malakand","Swat",6,6,12
+"850","Khyber PakhtunKhwa","Malakand","Swat",6,6,13
+"851","Khyber PakhtunKhwa","Malakand","Swat",6,6,20
+"853","Khyber PakhtunKhwa","Malakand","Swat",6,5,8
+"854","Khyber PakhtunKhwa","Malakand","Swat",6,6,16
+"856","Khyber PakhtunKhwa","Malakand","Swat",6,6,15
+"857","Khyber PakhtunKhwa","Malakand","Swat",6,6,15
+"858","Khyber PakhtunKhwa","Malakand","Swat",6,5,10
+"859","Khyber PakhtunKhwa","Malakand","Swat",5,5,11
+"860","Khyber PakhtunKhwa","Malakand","Swat",6,6,16
+"861","Khyber PakhtunKhwa","Malakand","Swat",6,6,17
+"863","Khyber PakhtunKhwa","Malakand","Swat",6,6,16
+"864","Khyber PakhtunKhwa","Malakand","Swat",6,6,14
+"865","Khyber PakhtunKhwa","Mardan","Mardan",6,6,15
+"868","Khyber PakhtunKhwa","Mardan","Mardan",6,6,16
+"871","Khyber PakhtunKhwa","Mardan","Mardan",6,5,6
+"872","Khyber PakhtunKhwa","Mardan","Mardan",6,3,9
+"873","Khyber PakhtunKhwa","Mardan","Mardan",6,5,20
+"874","Khyber PakhtunKhwa","Mardan","Mardan",6,4,11
+"875","Khyber PakhtunKhwa","Mardan","Mardan",6,6,18
+"876","Khyber PakhtunKhwa","Mardan","Mardan",6,6,14
+"878","Khyber PakhtunKhwa","Mardan","Mardan",6,4,8
+"879","Khyber PakhtunKhwa","Mardan","Mardan",6,4,8
+"880","Khyber PakhtunKhwa","Mardan","Mardan",6,5,20
+"882","Khyber PakhtunKhwa","Mardan","Mardan",6,6,16
+"884","Khyber PakhtunKhwa","Mardan","Mardan",5,5,14
+"885","Khyber PakhtunKhwa","Mardan","Mardan",6,5,17
+"89","AJK","Muzaffarabad","Muzaffarabad",1,1,2
+"891","Khyber PakhtunKhwa","Mardan","Mardan",5,4,15
+"892","Khyber PakhtunKhwa","Mardan","Mardan",6,4,9
+"894","Khyber PakhtunKhwa","Mardan","Mardan",6,6,15
+"895","Khyber PakhtunKhwa","Mardan","Swabi",6,5,13
+"896","Khyber PakhtunKhwa","Mardan","Swabi",6,6,17
+"897","Khyber PakhtunKhwa","Mardan","Swabi",5,4,7
+"90","AJK","Muzaffarabad","Neelum",6,4,17
+"901","Khyber PakhtunKhwa","Mardan","Swabi",6,6,21
+"902","Khyber PakhtunKhwa","Mardan","Swabi",6,6,22
+"903","Khyber PakhtunKhwa","Mardan","Swabi",6,4,10
+"904","Khyber PakhtunKhwa","Mardan","Swabi",6,6,22
+"907","Khyber PakhtunKhwa","Mardan","Swabi",6,5,12
+"908","Khyber PakhtunKhwa","Mardan","Swabi",6,5,13
+"909","Khyber PakhtunKhwa","Mardan","Swabi",6,4,9
+"91","AJK","Muzaffarabad","Neelum",6,6,20
+"910","Khyber PakhtunKhwa","Mardan","Swabi",6,5,13
+"911","Khyber PakhtunKhwa","Mardan","Swabi",6,6,32
+"912","Khyber PakhtunKhwa","Mardan","Swabi",6,6,21
+"913","Khyber PakhtunKhwa","Peshawar","Charsadda",6,5,19
+"914","Khyber PakhtunKhwa","Peshawar","Charsadda",6,6,19
+"915","Khyber PakhtunKhwa","Peshawar","Charsadda",6,6,22
+"916","Khyber PakhtunKhwa","Peshawar","Charsadda",6,6,41
+"917","Khyber PakhtunKhwa","Peshawar","Charsadda",6,4,24
+"92","AJK","Muzaffarabad","Neelum",6,4,18
+"921","Khyber PakhtunKhwa","Peshawar","Nowshera ",6,5,15
+"922","Khyber PakhtunKhwa","Peshawar","Nowshera ",6,5,17
+"923","Khyber PakhtunKhwa","Peshawar","Nowshera ",6,5,15
+"924","Khyber PakhtunKhwa","Peshawar","Nowshera ",6,5,13
+"925","Khyber PakhtunKhwa","Peshawar","Nowshera ",5,5,22
+"926","Khyber PakhtunKhwa","Peshawar","Peshawar",6,5,27
+"927","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,18
+"929","Khyber PakhtunKhwa","Peshawar","Peshawar",5,4,10
+"930","Khyber PakhtunKhwa","Peshawar","Peshawar",6,5,14
+"931","Khyber PakhtunKhwa","Peshawar","Peshawar",5,3,10
+"934","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,17
+"935","Khyber PakhtunKhwa","Peshawar","Peshawar",6,5,18
+"938","Khyber PakhtunKhwa","Peshawar","Peshawar",3,3,10
+"939","Khyber PakhtunKhwa","Peshawar","Peshawar",3,3,8
+"940","Khyber PakhtunKhwa","Peshawar","Peshawar",3,3,9
+"941","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,16
+"942","Khyber PakhtunKhwa","Peshawar","Peshawar",6,5,19
+"943","Khyber PakhtunKhwa","Peshawar","Peshawar",5,3,6
+"944","Khyber PakhtunKhwa","Peshawar","Peshawar",6,3,5
+"945","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,20
+"946","Khyber PakhtunKhwa","Peshawar","Peshawar",6,4,12
+"947","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,15
+"948","Khyber PakhtunKhwa","Peshawar","Peshawar",5,5,19
+"949","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,21
+"950","Khyber PakhtunKhwa","Peshawar","Peshawar",6,5,8
+"951","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,16
+"953","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,17
+"954","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,10
+"955","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,13
+"956","Khyber PakhtunKhwa","Peshawar","Peshawar",6,4,10
+"957","Khyber PakhtunKhwa","Peshawar","Peshawar",6,4,8
+"958","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,13
+"959","Khyber PakhtunKhwa","Peshawar","Peshawar",6,5,7
+"96","AJK","Muzaffarabad","Neelum",6,6,28
+"960","Khyber PakhtunKhwa","Peshawar","Peshawar",6,6,12
+"99","AJK","Poonch","Bagh",6,6,16

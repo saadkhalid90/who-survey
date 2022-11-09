@@ -1,0 +1,380 @@
+"province","district","cluster_code","hh02","elig_tcv","count_tcv","check_tcv","no_cov_tcv","elig_polio","count_polio","check_polio","no_cov_polio"
+"AJK","Bagh","100",88,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Bagh","100",126,5,3,TRUE,FALSE,2,1,TRUE,FALSE
+"AJK","Bagh","101",93,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Bagh","101",205,4,1,TRUE,FALSE,4,1,TRUE,FALSE
+"AJK","Bagh","101",261,4,0,FALSE,TRUE,1,0,FALSE,TRUE
+"AJK","Bagh","102",104,1,0,FALSE,TRUE,2,1,TRUE,FALSE
+"AJK","Bagh","107",177,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Bagh","107",283,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"AJK","Bagh","108",25,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"AJK","Bagh","99",133,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"AJK","Bhimber","1",22,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"AJK","Bhimber","1",73,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"AJK","Bhimber","1",85,5,1,TRUE,FALSE,2,0,FALSE,TRUE
+"AJK","Jhelum Vellay","50",1,6,6,FALSE,FALSE,2,0,FALSE,TRUE
+"AJK","Jhelum Vellay","50",4,7,6,TRUE,FALSE,2,2,FALSE,FALSE
+"AJK","Jhelum Vellay","50",108,3,3,FALSE,FALSE,1,0,FALSE,TRUE
+"AJK","Jhelum Vellay","55",16,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"AJK","Kotli","12",12,4,4,FALSE,FALSE,3,2,TRUE,FALSE
+"AJK","Kotli","16",38,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Kotli","20",90,13,8,TRUE,FALSE,3,2,TRUE,FALSE
+"AJK","Kotli","27",78,0,0,FALSE,FALSE,1,0,FALSE,TRUE
+"AJK","Kotli","29",92,5,0,FALSE,TRUE,3,0,FALSE,TRUE
+"AJK","Kotli","29",111,2,1,TRUE,FALSE,1,0,FALSE,TRUE
+"AJK","Kotli","30",31,3,2,TRUE,FALSE,2,1,TRUE,FALSE
+"AJK","Kotli","30",47,3,2,TRUE,FALSE,2,2,FALSE,FALSE
+"AJK","Kotli","30",93,6,5,TRUE,FALSE,4,3,TRUE,FALSE
+"AJK","Mirpur","40",69,4,2,TRUE,FALSE,2,2,FALSE,FALSE
+"AJK","Mirpur","45",127,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"AJK","Mirpur","46",119,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Mirpur","47",3,3,2,TRUE,FALSE,2,2,FALSE,FALSE
+"AJK","Muzaffarabad","69",60,3,3,FALSE,FALSE,2,0,FALSE,TRUE
+"AJK","Muzaffarabad","69",103,3,3,FALSE,FALSE,3,1,TRUE,FALSE
+"AJK","Muzaffarabad","70",6,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Muzaffarabad","72",3,1,1,FALSE,FALSE,2,1,TRUE,FALSE
+"AJK","Muzaffarabad","73",3,4,1,TRUE,FALSE,1,0,FALSE,TRUE
+"AJK","Muzaffarabad","73",6,2,1,TRUE,FALSE,1,0,FALSE,TRUE
+"AJK","Muzaffarabad","75",21,5,2,TRUE,FALSE,3,0,FALSE,TRUE
+"AJK","Muzaffarabad","75",246,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"AJK","Muzaffarabad","77",37,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"AJK","Muzaffarabad","77",213,2,0,FALSE,TRUE,1,0,FALSE,TRUE
+"AJK","Muzaffarabad","79",19,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"AJK","Muzaffarabad","79",89,1,1,FALSE,FALSE,1,0,FALSE,TRUE
+"AJK","Muzaffarabad","79",159,4,0,FALSE,TRUE,4,0,FALSE,TRUE
+"AJK","Muzaffarabad","80",1,4,3,TRUE,FALSE,0,0,FALSE,FALSE
+"AJK","Muzaffarabad","80",5,4,2,TRUE,FALSE,1,0,FALSE,TRUE
+"AJK","Muzaffarabad","80",6,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"AJK","Muzaffarabad","84",12,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Muzaffarabad","84",171,2,0,FALSE,TRUE,3,0,FALSE,TRUE
+"AJK","Neelum","90",126,6,4,TRUE,FALSE,3,1,TRUE,FALSE
+"AJK","Neelum","91",18,4,4,FALSE,FALSE,2,1,TRUE,FALSE
+"AJK","Neelum","91",98,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"AJK","Neelum","92",5,4,3,TRUE,FALSE,3,3,FALSE,FALSE
+"AJK","Neelum","96",42,5,4,TRUE,FALSE,2,2,FALSE,FALSE
+"AJK","Neelum","96",82,6,6,FALSE,FALSE,2,0,FALSE,TRUE
+"AJK","Neelum","96",128,6,5,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Poonch","127",181,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"AJK","Poonch","130",30,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"AJK","Sudhnooti","137",122,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"AJK","Sudhnooti","140",105,3,0,FALSE,TRUE,4,0,FALSE,TRUE
+"AJK","Sudhnooti","140",171,4,3,TRUE,FALSE,3,2,TRUE,FALSE
+"AJK","Sudhnooti","142",161,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"AJK","Sudhnooti","143",29,4,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Balochistan","Bolan","243",54,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Balochistan","Bolan","243",70,3,2,TRUE,FALSE,3,3,FALSE,FALSE
+"Balochistan","Bolan","244",13,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Bolan","244",30,5,5,FALSE,FALSE,3,2,TRUE,FALSE
+"Balochistan","Kech","221",52,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Balochistan","Kech","229",15,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Kech","230",13,3,1,TRUE,FALSE,2,0,FALSE,TRUE
+"Balochistan","Kech","230",23,3,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Kech","231",14,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Khuzdar","154",20,4,4,FALSE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Khuzdar","155",6,5,5,FALSE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Khuzdar","164",43,7,3,TRUE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Khuzdar","164",58,4,3,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Khuzdar","167",77,7,5,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Mastung","186",48,8,3,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Mastung","186",62,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Mastung","186",76,5,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Balochistan","Mastung","187",22,4,3,TRUE,FALSE,3,3,FALSE,FALSE
+"Balochistan","Naseerabad","264",17,6,3,TRUE,FALSE,2,0,FALSE,TRUE
+"Balochistan","Naseerabad","270",41,5,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Naseerabad","270",104,5,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Balochistan","Naseerabad","275",7,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Balochistan","NUSHKI","367",10,4,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","NUSHKI","367",72,4,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","NUSHKI","370",10,7,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","NUSHKI","370",64,3,3,FALSE,FALSE,3,2,TRUE,FALSE
+"Balochistan","NUSHKI","370",78,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","NUSHKI","371",2,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","NUSHKI","371",58,2,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","NUSHKI","371",72,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","Quetta","299",18,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Quetta","299",50,3,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Balochistan","Quetta","299",146,4,2,TRUE,FALSE,3,1,TRUE,FALSE
+"Balochistan","Quetta","299",178,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Quetta","314",2,3,2,TRUE,FALSE,2,2,FALSE,FALSE
+"Balochistan","Quetta","314",3,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Quetta","314",15,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Quetta","314",39,4,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Quetta","314",63,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Quetta","326",22,2,2,FALSE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Quetta","326",40,5,4,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Quetta","326",49,2,2,FALSE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Quetta","327",92,0,0,FALSE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Quetta","327",172,3,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Balochistan","Sibi","420",17,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Sibi","420",49,4,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Sibi","421",10,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Sibi","421",37,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Sibi","422",34,3,1,TRUE,FALSE,3,0,FALSE,TRUE
+"Balochistan","SIBI","417",17,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","SIBI","417",32,5,3,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","SIBI","417",77,7,6,TRUE,FALSE,2,2,FALSE,FALSE
+"Balochistan","SIBI","418",9,6,6,FALSE,FALSE,4,3,TRUE,FALSE
+"Balochistan","SIBI","418",45,6,4,TRUE,FALSE,2,2,FALSE,FALSE
+"Balochistan","SIBI","419",9,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","SIBI","419",17,4,3,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","SIBI","419",26,4,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Sohbatpur","284",180,6,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Balochistan","Zhob","445",10,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Zhob","445",27,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Astore","531",109,2,0,FALSE,TRUE,2,1,TRUE,FALSE
+"Gilgit Baltistan","Astore","532",3,4,2,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Astore","534",3,5,4,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Diamer","544",32,6,5,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Diamer","547",85,5,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Gilgit Baltistan","Diamer","551",5,6,1,TRUE,FALSE,2,0,FALSE,TRUE
+"Gilgit Baltistan","Diamer","551",23,11,0,FALSE,TRUE,9,3,TRUE,FALSE
+"Gilgit Baltistan","Diamer","551",42,6,4,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Diamer","551",78,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Gilgit Baltistan","Diamer","552",34,9,6,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Diamer","552",53,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Diamer","552",72,9,6,TRUE,FALSE,3,1,TRUE,FALSE
+"Gilgit Baltistan","Diamer","553",33,4,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Diamer","554",63,7,3,TRUE,FALSE,2,1,TRUE,FALSE
+"Gilgit Baltistan","Diamer","555",103,4,1,TRUE,FALSE,4,3,TRUE,FALSE
+"Gilgit Baltistan","Diamer","555",143,3,0,FALSE,TRUE,3,3,FALSE,FALSE
+"Gilgit Baltistan","Diamer","555",223,6,5,TRUE,FALSE,3,3,FALSE,FALSE
+"Gilgit Baltistan","Diamer","557",194,4,0,FALSE,TRUE,3,3,FALSE,FALSE
+"Gilgit Baltistan","Diamer","557",235,3,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Diamer","575",47,6,2,TRUE,FALSE,2,0,FALSE,TRUE
+"Gilgit Baltistan","Diamer","575",85,8,7,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Ghizer","585",2,6,5,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","591",54,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","595",7,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","601",64,6,2,TRUE,FALSE,3,3,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","602",43,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","605",3,3,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","605",10,2,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Gilgit Baltistan","Gilgit","605",24,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","609",20,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Kharmang","492",105,5,5,FALSE,FALSE,4,3,TRUE,FALSE
+"Gilgit Baltistan","Kharmang","493",149,3,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Gilgit Baltistan","Kharmang","494",100,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Nagar","621",14,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Nagar","621",33,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Nagar","621",52,2,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Nagar","621",71,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Nagar","621",90,4,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Nagar","621",113,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"Gilgit Baltistan","Nagar","622",51,10,8,TRUE,FALSE,4,4,FALSE,FALSE
+"Gilgit Baltistan","Nagar","623",30,2,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Gilgit Baltistan","Nagar","623",110,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Gilgit Baltistan","Nagar","624",51,2,0,FALSE,TRUE,3,1,TRUE,FALSE
+"Gilgit Baltistan","Skardu","517",59,4,3,TRUE,FALSE,1,0,FALSE,TRUE
+"Gilgit Baltistan","Skardu","520",181,5,4,TRUE,FALSE,1,0,FALSE,TRUE
+"Gilgit Baltistan","Skardu","520",231,4,3,TRUE,FALSE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Skardu","521",130,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Skardu","522",151,6,5,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Skardu","523",56,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Abbottabad","733",115,3,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Abbottabad","736",96,4,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Abbottabad","739",59,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Abbottabad","739",110,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Abbottabad","744",41,4,4,FALSE,FALSE,4,3,TRUE,FALSE
+"Khyber PakhtunKhwa","Bannu ","633",40,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Bannu ","633",60,3,1,TRUE,FALSE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Bannu ","635",43,5,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Bannu ","637",235,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Bannu ","638",161,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Bannu ","640",43,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Charsadda","913",99,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","914",57,6,5,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","916",19,8,6,TRUE,FALSE,3,3,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","916",40,10,7,TRUE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Charsadda","916",63,4,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","916",87,3,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","917",25,4,0,FALSE,TRUE,3,3,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","917",75,5,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","917",99,11,4,TRUE,FALSE,6,6,FALSE,FALSE
+"Khyber PakhtunKhwa","Charsadda","917",124,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","674",31,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","675",5,3,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","DI Khan","675",14,2,2,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","DI Khan","675",23,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","675",32,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","682",9,6,6,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","DI Khan","682",26,5,5,FALSE,FALSE,3,2,TRUE,FALSE
+"Khyber PakhtunKhwa","DI Khan","688",59,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","688",84,3,2,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","691",17,2,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","DI Khan","692",26,4,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","692",80,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","DI Khan","694",77,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","698",126,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Dir Lower","820",47,3,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Dir Lower","821",12,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Dir Lower","822",6,2,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Dir Lower","822",25,9,4,TRUE,FALSE,3,2,TRUE,FALSE
+"Khyber PakhtunKhwa","Dir Lower","822",63,4,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Dir Lower","822",82,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Dir Lower","822",101,6,0,FALSE,TRUE,4,4,FALSE,FALSE
+"Khyber PakhtunKhwa","Dir Upper","824",7,2,1,TRUE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Haripur","746",34,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Haripur","746",67,4,2,TRUE,FALSE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Haripur","748",90,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Haripur","749",14,2,1,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Haripur","749",85,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Haripur","751",64,2,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Haripur","753",92,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Haripur","755",127,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","784",88,3,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","784",250,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kohat","790",157,2,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kohat","790",275,8,0,FALSE,TRUE,4,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kohat","796",96,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","796",138,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","796",185,4,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","797",3,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","797",28,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","797",123,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","798",82,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","798",110,4,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","798",137,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","798",166,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","799",6,3,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","799",11,3,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","799",16,0,0,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kohat","800",9,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","800",16,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","800",30,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","800",38,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","801",8,4,4,FALSE,FALSE,3,2,TRUE,FALSE
+"Khyber PakhtunKhwa","Kohat","802",28,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","802",63,0,0,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kohat","803",59,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","803",71,3,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Kurram Upper","813",18,1,1,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kurram Upper","813",123,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Kurram Upper","813",158,3,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kurram Upper","813",193,4,4,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Kurram Upper","814",21,2,2,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Kurram Upper","814",75,5,5,FALSE,FALSE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kurram Upper","815",16,4,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kurram Upper","815",101,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","643",3,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","645",108,6,4,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","647",33,5,2,TRUE,FALSE,4,4,FALSE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","650",16,4,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Lakki Marwat","651",63,1,1,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","654",20,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Lakki Marwat","654",35,6,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","654",80,4,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","655",68,2,2,FALSE,FALSE,4,2,TRUE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","656",28,3,3,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Lakki Marwat","657",1,4,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Lakki Marwat","658",19,4,4,FALSE,FALSE,3,2,TRUE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","659",52,4,4,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Lakki Marwat","659",109,0,0,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Lakki Marwat","660",58,5,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Malakand","826",13,4,3,TRUE,FALSE,3,3,FALSE,FALSE
+"Khyber PakhtunKhwa","Malakand","826",76,3,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Malakand","826",97,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Malakand","827",91,5,4,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","756",100,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","757",6,6,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","758",24,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","758",55,2,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Mansehra","759",13,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","760",14,3,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","760",70,3,0,FALSE,TRUE,3,3,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","760",88,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Mansehra","760",106,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Mansehra","761",54,4,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","761",118,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","761",150,7,2,TRUE,FALSE,3,3,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","767",18,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","767",92,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mansehra","768",106,3,1,TRUE,FALSE,3,3,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","872",16,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","872",30,4,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","872",111,4,2,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","873",19,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","873",54,5,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","873",157,4,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","874",41,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","874",155,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","874",173,3,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Mardan","875",4,3,1,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","876",69,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","879",20,2,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","880",45,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","880",169,12,0,FALSE,TRUE,6,6,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","884",56,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","885",38,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","885",56,6,4,TRUE,FALSE,6,6,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","891",6,7,6,TRUE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Mardan","892",42,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","892",147,4,1,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","894",1,3,1,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","894",9,1,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Mardan","894",17,3,1,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Nowshera ","921",93,3,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Nowshera ","921",112,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Nowshera ","924",61,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Nowshera ","925",76,3,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Nowshera ","925",290,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","926",23,6,6,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","926",39,4,1,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","926",71,6,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","927",9,8,0,FALSE,TRUE,4,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","929",15,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","929",51,2,1,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","930",185,6,5,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","934",34,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","934",57,3,2,TRUE,FALSE,4,2,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","934",81,4,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","934",105,0,0,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","935",40,0,0,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","935",66,5,5,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","935",88,5,5,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","938",12,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","938",27,4,2,TRUE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","938",40,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","939",23,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","939",65,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","940",30,5,4,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","941",2,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","941",102,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","943",21,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","943",43,2,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","943",65,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","944",109,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","945",11,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","945",59,5,1,TRUE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","945",220,4,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","945",273,4,3,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","946",14,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","946",35,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","946",136,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","947",56,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","948",23,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","949",6,4,4,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","949",51,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","949",73,2,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","949",122,7,6,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","950",51,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","951",256,4,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Peshawar","959",79,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Swabi","895",82,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swabi","901",63,6,6,FALSE,FALSE,3,2,TRUE,FALSE
+"Khyber PakhtunKhwa","Swabi","902",12,7,7,FALSE,FALSE,5,4,TRUE,FALSE
+"Khyber PakhtunKhwa","Swabi","902",65,2,0,FALSE,TRUE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Swabi","902",171,4,2,TRUE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swabi","902",224,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swabi","909",33,1,1,FALSE,FALSE,3,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Swabi","912",8,5,2,TRUE,FALSE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swabi","912",33,3,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Swat","832",217,2,2,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Swat","832",261,4,4,FALSE,FALSE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swat","833",17,4,4,FALSE,FALSE,3,2,TRUE,FALSE
+"Khyber PakhtunKhwa","Swat","847",65,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Swat","847",229,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Swat","848",45,5,2,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Swat","849",15,4,3,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Swat","851",95,6,5,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Swat","857",16,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Tank","718",28,1,0,FALSE,TRUE,0,0,FALSE,FALSE
