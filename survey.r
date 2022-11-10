@@ -1,4 +1,5 @@
-names(survey)
+survey$age_years <- floor(as.numeric(survey$sia12a_calc1) / 365.25)
+survey$age_years[survey$age_years == 15] <- 14
 
 survey <- survey %>% select(
   c(
@@ -11,6 +12,7 @@ survey <- survey %>% select(
     "sia08_other",
     "child_date_of_birth",
     "sia12a_calc1",
+    "age_years",
     "sia12a_calc2",
     "sia12",
     "sia12a",
@@ -34,6 +36,8 @@ survey <- survey %>% select(
   )
 )
 
+
+
 names(survey) <- c(
   "sia04",
   "sia03",
@@ -44,6 +48,7 @@ names(survey) <- c(
   "sia08_other",
   "dob",
   "age_days",
+  "age_years",
   "tcv_elig",
   "sia12",
   "sia12a",
@@ -76,32 +81,19 @@ survey_hh <- hh_entries %>% select(
   "division",
   "district",
   "hh02"
-) %>% right_join(survey)
+) %>%
+  right_join(survey) %>%
+  left_join(hh_entries %>% select(id, supervisor_info))
 
-survey_hh$dob <- as.Date(gsub(survey_hh$dob, pattern = "T.*", replacement = ""))
+survey_hh$dob <-
+  as.Date(gsub(survey_hh$dob, pattern = "T.*", replacement = ""))
 survey_hh$survey_date <- as.Date(survey_hh$survey_date)
 
-names(survey_hh)
-
-survey_list <- survey_hh %>% 
-  select(
-    c(
-      "id",
-      "enumerator_name",
-      "survey_date",
-      "survey_time",    
-      "cluster_code",
-      "province",
-      "division",
-      "district",       
-      "hh02"
-    )
-  )
-
-
 write.csv(
-  survey_list,
+  survey_hh,
   'who-survey-dash/Data/survey_list.csv',
   row.names = F,
   na = ""
 )
+
+year_dist <- data.frame(table(survey_hh$age_years))

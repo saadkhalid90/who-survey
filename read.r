@@ -2,6 +2,8 @@
 library(dplyr)
 library(readr)
 library(tidyr)
+library(ggplot2)
+library(ggthemes)
 
 ## function to read in the data (credentials revised)
 readInODK <- function(svcLink, dataIndex, download) {
@@ -73,7 +75,8 @@ hh_entries <- hh_entries %>% select(
     "ss_hh08_name",
     "ss_hh08_address",
     "br1_count",
-    "br2_count"
+    "br2_count",
+    "system_submitter_name"
   )
 )
 
@@ -97,7 +100,8 @@ names(hh_entries) <-   c(
   "hh08_name",
   "hh08_address",
   "adult_count",
-  "children_count"
+  "children_count",
+  "supervisor_info"
 )
 
 roster_adults$roster_type <- "adult"

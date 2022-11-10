@@ -23,7 +23,7 @@ body {
   color: #0D47A1;
 }
 
-.scorePlot {
+.agePlot {
   height: 600px;
 }
 
@@ -37,4 +37,16 @@ div#keepAlive {
 
 .summary-stat {
   color: #0D47A1;
+}
+
+.summary-stat-inv {
+  background-color: #9C27B0;
+  color: white;
+  font-weight: bold;
+  padding: 2px;
+  border-radius: 2px;
+}
+
+.controls {
+  display: flex;
 }

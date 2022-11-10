@@ -1,0 +1,95 @@
+"province","district","supervisor_info","elig_tcv","tcv","elig_polio","polio"
+"AJK","Bagh","AJK-5Syed Mujtaba Hussain Shah-3348522939-Bagh",137,0.868613138686131,49,0.795918367346939
+"AJK","Bhimber","AJK-11M Tahir Minhas-3025226295-Mirpur",124,0.959677419354839,45,0.888888888888889
+"AJK","Bhimber","BALOCHISTAN-Alamgir baloch-03218019964-LASBELA",3,0,0,
+"AJK","Haveli","AJK-6Ch Mehmood ul Hassan-3557202711-Haveli",70,1,31,1
+"AJK","Jhelum Vellay","AJK-3Khaliq ur Rehman-3425102735-Muzaffarabad",71,1,34,0.882352941176471
+"AJK","Jhelum Vellay","AJK-4Shuja Akbar-3125553688-Jhelum Valley - Hattian Bala",7,0.857142857142857,2,1
+"AJK","Kotli","AJK-9Hamza Ahmad Malik-3005076239-Kotli",142,0.859154929577465,66,0.848484848484849
+"AJK","Kotli","BALOCHISTAN-4Arsalan Khan-0335-2899172-Chaghi",4,1,3,0.666666666666667
+"AJK","Mirpur","AJK-10Sidra Nazir-3435837208-Mirpur",107,0.91588785046729,39,0.897435897435897
+"AJK","Mirpur","AJK-11M Tahir Minhas-3025226295-Mirpur",15,0.933333333333333,6,1
+"AJK","Muzaffarabad","AJK-2Anjum Shahid-3450743305-Muzaffarabad",124,0.919354838709677,37,0.864864864864865
+"AJK","Muzaffarabad","AJK-3Khaliq ur Rehman-3425102735-Muzaffarabad",89,0.808988764044944,39,0.538461538461538
+"AJK","Muzaffarabad","GB-1Basharat Hussain-3555400124-Skardu",2,1,2,1
+"AJK","Neelum","AJK-1M Azhar ud Din-3558147076-Neelum",90,0.911111111111111,32,0.8125
+"AJK","Poonch","AJK-11M Tahir Minhas-3025226295-Mirpur",2,1,2,1
+"AJK","Poonch","AJK-7Khurram Zulfiqar-3488695622-Poonch",106,0.952830188679245,37,0.864864864864865
+"AJK","Poonch","BALOCHISTAN-25Muhammad Shoaib-0333-7805704-Quetta",5,1,3,1
+"AJK","Sudhnooti","AJK-8Faisal Aslam-3435256904-Sudhnoti",101,0.821782178217822,36,0.861111111111111
+"Balochistan","Bolan","BALOCHISTAN-20Muhammad Ameen-0301-5237985-Kachhi Bolan",68,0.808823529411765,26,0.576923076923077
+"Balochistan","Chagai","BALOCHISTAN-4Arsalan Khan-0335-2899172-Chaghi",93,1,59,1
+"Balochistan","Chaman","GB-12Adil Shah-3129349104-Gilgit",2,1,0,
+"Balochistan","Dera Bugti","KPK-23Zar Muhammad -Peshawar-03122607070",5,1,2,1
+"Balochistan","Jaffarabad","BALOCHISTAN-22Barkat Ali-0345-2885527-Jaffarabad",62,0.935483870967742,17,0.823529411764706
+"Balochistan","Jhal Magsi","BALOCHISTAN-20Muhammad Ameen-0301-5237985-Kachhi Bolan",20,0.8,11,0
+"Balochistan","KALAT","BALOCHISTAN-17Amir Habib-0333-3486465-Kallat",13,1,8,1
+"Balochistan","Kech","BALOCHISTAN-1Shey Mureed-0312-1718837-Turbat  Kech",76,0.921052631578947,27,0.888888888888889
+"Balochistan","Kech","GB-10Shah Abbas-3132332549-Hunza Nagar Gilgit",1,0,1,1
+"Balochistan","Kharan","BALOCHISTAN-6Muhammad Iqbal-0333-3265517-Kharan",59,0.898305084745763,26,0.730769230769231
+"Balochistan","Kharan","BALOCHISTAN-7Saeed Ahmed-0346-8128765-Kharan",25,1,9,1
+"Balochistan","Khuzdar","BALOCHISTAN-28Faisal Rafiq-0333-2062465-Khuzdar",140,0.957142857142857,45,0.933333333333333
+"Balochistan","Khuzdar","BALOCHISTAN-3Waqar Ahmed-3318849853-Khuzdar",107,0.953271028037383,44,0.954545454545455
+"Balochistan","Loralai","BALOCHISTAN-5Muahammad Ali-0336-7118016-Dera Bugti",14,1,2,1
+"Balochistan","Loralai","BALOCHISTAN-9Abdul Manan-0334-2742795-Lorallai",31,0.967741935483871,13,1
+"Balochistan","Mastung","BALOCHISTAN-19Muhammad Younis-0333-771278-Sibi",48,0.708333333333333,17,0.764705882352941
+"Balochistan","Naseerabad","BALOCHISTAN-21Naveed Maqbool-0342-8252330-Naseerabad",306,0.901960784313726,83,0.939759036144578
+"Balochistan","NUSHKI","BALOCHISTAN-10Aziz Ahmed-0331-823545-Noshki",60,0.633333333333333,19,0.736842105263158
+"Balochistan","Quetta","BALOCHISTAN-25Muhammad Shoaib-0333-7805704-Quetta",252,0.94047619047619,75,0.88
+"Balochistan","Quetta","BALOCHISTAN-26Shakeel Ahmed-0337-7907702-Quetta",74,0.905405405405405,21,0.952380952380952
+"Balochistan","Quetta","BALOCHISTAN-4Arsalan Khan-0335-2899172-Chaghi",1,1,1,1
+"Balochistan","Sibi","BALOCHISTAN-19Muhammad Younis-0333-771278-Sibi",47,0.808510638297872,12,0.75
+"Balochistan","SIBI","BALOCHISTAN-19Muhammad Younis-0333-771278-Sibi",141,0.929078014184397,40,0.925
+"Balochistan","Sohbatpur","BALOCHISTAN-23Abdul Hameed-0345-3973073-Sohbat Pur",87,0.931034482758621,41,0.926829268292683
+"Balochistan","zhob","BALOCHISTAN-13Muhammad Ashraf-0348-0204430-Zhob",19,1,12,1
+"Balochistan","Zhob","BALOCHISTAN-12Muhammad Arif-0315-3434050-Zhob",41,0.926829268292683,10,0.9
+"Balochistan","Zhob","BALOCHISTAN-13Muhammad Ashraf-0348-0204430-Zhob",22,1,11,1
+"Balochistan","Ziarat","BALOCHISTAN-11Iqbal Shah-0301-3731544-Ziarat",19,1,6,1
+"Gilgit Baltistan","Astore","GB-8Wajahat-3554299706-Astore",130,0.961538461538462,34,0.970588235294118
+"Gilgit Baltistan","Diamer","GB-5Mujeeb Khan-3491057728-Chilas",200,0.725,94,0.840425531914894
+"Gilgit Baltistan","Diamer","GB-6Hafeezullah-3554104477-Darel",58,1,22,1
+"Gilgit Baltistan","Diamer","GB-7Fazal Rehman-3555671666-Tangir",125,0.96,37,0.945945945945946
+"Gilgit Baltistan","Ganche","GB-2Ather Ali-3555402672-Ghanche",118,1,40,1
+"Gilgit Baltistan","Ghizer","GB-9Yourmast khan-3555620089-Ghizer",138,0.992753623188406,49,1
+"Gilgit Baltistan","Gilgit","GB-10Shah Abbas-3132332549-Hunza Nagar Gilgit",52,0.807692307692308,21,0.857142857142857
+"Gilgit Baltistan","Gilgit","GB-11Mehmood Alam-3473172044-Gilgit",96,0.927083333333333,44,1
+"Gilgit Baltistan","Gilgit","GB-12Adil Shah-3129349104-Gilgit",157,0.987261146496815,51,1
+"Gilgit Baltistan","Kharmang","GB-4Miraj Yousaf-3418860095-Kharmang",26,0.846153846153846,12,0.833333333333333
+"Gilgit Baltistan","Nagar","GB-10Shah Abbas-3132332549-Hunza Nagar Gilgit",78,0.794871794871795,31,0.838709677419355
+"Gilgit Baltistan","Shigar","GB-3Qamar Abass-3438958026-Shigar",128,1,43,1
+"Gilgit Baltistan","Shigar","GB-4Miraj Yousaf-3418860095-Kharmang",3,1,1,1
+"Gilgit Baltistan","Skardu","GB-1Basharat Hussain-3555400124-Skardu",180,0.966666666666667,46,0.956521739130435
+"Gilgit Baltistan","Skardu","GB-4Miraj Yousaf-3418860095-Kharmang",6,1,2,1
+"Khyber PakhtunKhwa","Abbottabad","KPK-1Tariq Mehmood-Abbottabad-03005639414",19,0.947368421052632,8,1
+"Khyber PakhtunKhwa","Abbottabad","KPK-2Faisal Javed -Abbottabad-03128887594",116,0.896551724137931,47,0.851063829787234
+"Khyber PakhtunKhwa","Bannu ","KPK-4Yasir-Bannu-03315107971",277,0.956678700361011,98,0.959183673469388
+"Khyber PakhtunKhwa","Charsadda","KPK-5Junaid Elahi-Charsadda-03159135560",116,0.758620689655172,44,0.977272727272727
+"Khyber PakhtunKhwa","Chitral Lower","KPK-9Usman Shahzada -Dir Lower-03149195141",28,1,13,1
+"Khyber PakhtunKhwa","DI Khan","KPK-6Muhammad Talha-DIKhan-03134039134",133,0.977443609022556,53,1
+"Khyber PakhtunKhwa","DI Khan","KPK-7Muhammad Jamshed-DIKhan-3469778862",142,0.950704225352113,55,0.945454545454545
+"Khyber PakhtunKhwa","DI Khan","KPK-8Altaf Ur Rehman-DIKhan-03338839868",175,0.954285714285714,59,0.932203389830508
+"Khyber PakhtunKhwa","Dir Lower","KPK-9Usman Shahzada -Dir Lower-03149195141",63,0.682539682539683,27,0.888888888888889
+"Khyber PakhtunKhwa","Dir Upper","KPK-9Usman Shahzada -Dir Lower-03149195141",46,0.978260869565217,15,0.933333333333333
+"Khyber PakhtunKhwa","Hangu","KPK-10Khalid Ahmad Khan -Hangu-3449342129",119,1,37,1
+"Khyber PakhtunKhwa","Haripur","GB-3Qamar Abass-3438958026-Shigar",7,1,3,1
+"Khyber PakhtunKhwa","Haripur","KPK-11Hassan Khalid Khan-Haripur-03349118211",83,0.891566265060241,25,0.76
+"Khyber PakhtunKhwa","Haripur","KPK-2Faisal Javed -Abbottabad-03128887594",26,0.961538461538462,10,0.9
+"Khyber PakhtunKhwa","Karak","KPK-12Muhammad Sonail -Karak-03468389964",35,1,9,1
+"Khyber PakhtunKhwa","Kohat","KPK-10Khalid Ahmad Khan -Hangu-3449342129",28,1,5,1
+"Khyber PakhtunKhwa","Kohat","KPK-13Saeed Khan Bangash-Kohat-3348317007",153,0.666666666666667,49,0.816326530612245
+"Khyber PakhtunKhwa","Kohat","KPK-14Amir khan -Kohat -03435716209",173,0.92485549132948,71,0.915492957746479
+"Khyber PakhtunKhwa","Kurram Upper","KPK-15Hassan Sadiq-Kurram-03018008787",85,0.894117647058824,13,0.538461538461538
+"Khyber PakhtunKhwa","Lakki Marwat","KPK-16Zohaib saif-Lakki Marwat-03219635004",169,0.994082840236686,50,1
+"Khyber PakhtunKhwa","Lakki Marwat","KPK-17Habib ullah-Lakki Marwat-03459014861",295,0.901694915254237,118,0.906779661016949
+"Khyber PakhtunKhwa","Malakand","KPK-9Usman Shahzada -Dir Lower-03149195141",62,0.919354838709677,12,1
+"Khyber PakhtunKhwa","Mansehra","KPK-18Khurram shahzad-Mansehra-3459484722",178,0.808988764044944,54,0.944444444444444
+"Khyber PakhtunKhwa","Mardan","KPK-19Arif Raza Baig-Mardan-03459872282",350,0.828571428571429,120,0.983333333333333
+"Khyber PakhtunKhwa","Nowshera ","KPK-21Muhammad Ashraf -Nowshera-03159877971",85,0.905882352941176,32,0.78125
+"Khyber PakhtunKhwa","Peshawar","KPK-22Shouqat Ali Shah-Peshawar-03139305656",178,0.769662921348315,60,0.8
+"Khyber PakhtunKhwa","Peshawar","KPK-23Zar Muhammad -Peshawar-03122607070",143,0.79020979020979,56,0.767857142857143
+"Khyber PakhtunKhwa","Peshawar","KPK-24Muhammad Abubakar-Peshawar-03329736132",127,0.952755905511811,22,0.909090909090909
+"Khyber PakhtunKhwa","Swabi","KPK-25Syed Inayat Ali Shah -Swabi -3455612272",257,0.88715953307393,100,0.84
+"Khyber PakhtunKhwa","Swat","KPK-26Syed Umer Hayat-Swat-0341 9857193",127,0.952755905511811,44,0.931818181818182
+"Khyber PakhtunKhwa","Swat","KPK-27NOAMAN IQBAL-Swat-03339503054",179,1,75,1
+"Khyber PakhtunKhwa","Swat","KPK-28MUHAMMAD NISAR -Swat -03469416123",210,0.990476190476191,1,1
+"Khyber PakhtunKhwa","Tank","KPK-29Altaf Ahmed Burki-Tank-03455340109",110,0.990909090909091,28,1
