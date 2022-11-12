@@ -92,7 +92,13 @@ ui <- basicPage(
             tags$b("n_hh_child"),
             " - Households in roster that have eligible children"
           ),
-          tags$li(tags$b("n_children"), " - Children covered")
+          tags$li(tags$b("n_children"), " - Children covered"),
+          tags$li(tags$b("hh_list"), " - Household numbers entered by enumerators"),
+          tags$li(tags$b("hh_list_head"), " - Head of households entered by enumerators"),
+          tags$li(tags$b("hh_sampled_list"), " - Household numbers as per sample"),
+          tags$li(tags$b("hh_sampled_list_head"), " - Head of household as per sample"),
+          tags$li(tags$b("hh_error"), " - Data entry error in household numbers")
+          
         )
       )
     ),

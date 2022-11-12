@@ -29,13 +29,6 @@ survey_summ <- survey_summ %>% select(
 
 
 write.csv(
-  survey_summ,
-  'who-survey-dash/Data/survey_summ.csv',
-  row.names = F,
-  na = ""
-)
-
-write.csv(
   survey_hh_summ,
   'who-survey-dash/Data/survey_hh_summ.csv',
   row.names = F,

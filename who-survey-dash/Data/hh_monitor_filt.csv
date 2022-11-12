@@ -14,6 +14,7 @@
 "AJK","Bhimber","1",22,3,2,TRUE,FALSE,1,0,FALSE,TRUE
 "AJK","Bhimber","1",73,1,0,FALSE,TRUE,1,0,FALSE,TRUE
 "AJK","Bhimber","1",85,5,1,TRUE,FALSE,2,0,FALSE,TRUE
+"AJK","Bhimber","11",157,1,0,FALSE,TRUE,1,0,FALSE,TRUE
 "AJK","Bhimber","8",42,4,3,TRUE,FALSE,2,2,FALSE,FALSE
 "AJK","Bhimber","9",79,4,3,TRUE,FALSE,3,2,TRUE,FALSE
 "AJK","Jhelum Vellay","50",1,6,6,FALSE,FALSE,2,0,FALSE,TRUE
@@ -21,6 +22,7 @@
 "AJK","Jhelum Vellay","50",108,3,3,FALSE,FALSE,1,0,FALSE,TRUE
 "AJK","Jhelum Vellay","55",16,3,3,FALSE,FALSE,2,1,TRUE,FALSE
 "AJK","Kotli","12",12,4,4,FALSE,FALSE,3,2,TRUE,FALSE
+"AJK","Kotli","15",40,1,0,FALSE,TRUE,1,0,FALSE,TRUE
 "AJK","Kotli","16",38,4,3,TRUE,FALSE,1,1,FALSE,FALSE
 "AJK","Kotli","18",12,4,0,FALSE,TRUE,2,0,FALSE,TRUE
 "AJK","Kotli","18",27,2,1,TRUE,FALSE,1,1,FALSE,FALSE
@@ -32,11 +34,14 @@
 "AJK","Kotli","30",47,3,2,TRUE,FALSE,2,2,FALSE,FALSE
 "AJK","Kotli","30",93,6,5,TRUE,FALSE,4,3,TRUE,FALSE
 "AJK","Mirpur","32",65,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"AJK","Mirpur","33",181,3,2,TRUE,FALSE,2,2,FALSE,FALSE
+"AJK","Mirpur","34",18,2,0,FALSE,TRUE,0,0,FALSE,FALSE
 "AJK","Mirpur","36",134,3,0,FALSE,TRUE,2,0,FALSE,TRUE
 "AJK","Mirpur","40",69,4,2,TRUE,FALSE,2,2,FALSE,FALSE
 "AJK","Mirpur","45",127,2,0,FALSE,TRUE,2,0,FALSE,TRUE
 "AJK","Mirpur","46",119,3,2,TRUE,FALSE,1,1,FALSE,FALSE
 "AJK","Mirpur","47",3,3,2,TRUE,FALSE,2,2,FALSE,FALSE
+"AJK","Muzaffarabad","62",9,3,0,FALSE,TRUE,0,0,FALSE,FALSE
 "AJK","Muzaffarabad","69",60,3,3,FALSE,FALSE,2,0,FALSE,TRUE
 "AJK","Muzaffarabad","69",103,3,3,FALSE,FALSE,3,1,TRUE,FALSE
 "AJK","Muzaffarabad","70",6,3,2,TRUE,FALSE,1,1,FALSE,FALSE
@@ -58,6 +63,8 @@
 "AJK","Muzaffarabad","84",12,3,2,TRUE,FALSE,1,1,FALSE,FALSE
 "AJK","Muzaffarabad","84",171,2,0,FALSE,TRUE,3,0,FALSE,TRUE
 "AJK","Muzaffarabad","85",5,4,3,TRUE,FALSE,1,0,FALSE,TRUE
+"AJK","Muzaffarabad","88",47,4,4,FALSE,FALSE,2,1,TRUE,FALSE
+"AJK","Muzaffarabad","88",79,2,2,FALSE,FALSE,2,1,TRUE,FALSE
 "AJK","Neelum","90",126,6,4,TRUE,FALSE,3,1,TRUE,FALSE
 "AJK","Neelum","91",18,4,4,FALSE,FALSE,2,1,TRUE,FALSE
 "AJK","Neelum","91",98,2,0,FALSE,TRUE,2,2,FALSE,FALSE
@@ -88,8 +95,33 @@
 "Balochistan","Bolan","243",70,3,2,TRUE,FALSE,3,3,FALSE,FALSE
 "Balochistan","Bolan","244",13,1,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","Bolan","244",30,5,5,FALSE,FALSE,3,2,TRUE,FALSE
+"Balochistan","Dera Bugti","394",2,3,2,TRUE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Dera Bugti","394",12,4,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Dera Bugti","394",17,1,1,FALSE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Dera Bugti","394",22,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Dera Bugti","395",2,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Dera Bugti","396",3,3,3,FALSE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Dera Bugti","396",8,5,5,FALSE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Dera Bugti","396",13,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Dera Bugti","396",28,2,2,FALSE,FALSE,2,0,FALSE,TRUE
+"Balochistan","Dera Bugti","398",6,1,1,FALSE,FALSE,2,0,FALSE,TRUE
+"Balochistan","Dera Bugti","399",6,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Dera Bugti","399",26,1,1,FALSE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Dera Bugti","401",3,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","Dera Bugti","401",5,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Dera Bugti","401",17,3,3,FALSE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Dera Bugti","401",29,3,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Dera Bugti","402",28,1,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","Jaffarabad","248",24,4,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Balochistan","Jaffarabad","251",13,5,0,FALSE,TRUE,4,0,FALSE,TRUE
+"Balochistan","Jaffarabad","251",16,3,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Balochistan","Jaffarabad","255",2,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Jaffarabad","255",14,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Balochistan","Jhal Magsi","259",8,4,4,FALSE,FALSE,3,0,FALSE,TRUE
+"Balochistan","Jhal Magsi","261",49,5,5,FALSE,FALSE,3,0,FALSE,TRUE
+"Balochistan","Jhal Magsi","262",14,1,1,FALSE,FALSE,2,1,TRUE,FALSE
 "Balochistan","Jhal Magsi","262",68,5,5,FALSE,FALSE,2,0,FALSE,TRUE
+"Balochistan","Jhal Magsi","262",86,4,2,TRUE,FALSE,1,1,FALSE,FALSE
 "Balochistan","Jhal Magsi","262",104,5,5,FALSE,FALSE,3,0,FALSE,TRUE
 "Balochistan","Jhal Magsi","263",35,3,3,FALSE,FALSE,2,0,FALSE,TRUE
 "Balochistan","Jhal Magsi","263",75,1,1,FALSE,FALSE,1,0,FALSE,TRUE
@@ -100,6 +132,9 @@
 "Balochistan","Kech","230",23,3,1,TRUE,FALSE,1,1,FALSE,FALSE
 "Balochistan","Kech","231",14,3,2,TRUE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Kharan","353",20,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Balochistan","Kharan","355",117,5,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","Kharan","360",4,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","Kharan","360",21,5,1,TRUE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Kharan","361",26,1,0,FALSE,TRUE,2,0,FALSE,TRUE
 "Balochistan","Kharan","366",73,2,0,FALSE,TRUE,2,0,FALSE,TRUE
 "Balochistan","Kharan","366",227,5,4,TRUE,FALSE,1,0,FALSE,TRUE
@@ -110,7 +145,14 @@
 "Balochistan","Khuzdar","164",43,7,3,TRUE,FALSE,2,1,TRUE,FALSE
 "Balochistan","Khuzdar","164",58,4,3,TRUE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Khuzdar","167",77,7,5,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Lasbella","176",64,1,0,FALSE,TRUE,1,1,FALSE,FALSE
 "Balochistan","Loralai","465",79,5,4,TRUE,FALSE,2,2,FALSE,FALSE
+"Balochistan","Loralai","466",18,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Balochistan","Loralai","467",59,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Loralai","468",4,1,1,FALSE,FALSE,1,0,FALSE,TRUE
+"Balochistan","Loralai","468",68,6,5,TRUE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Loralai","468",84,2,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Balochistan","Loralai","472",55,5,3,TRUE,FALSE,3,2,TRUE,FALSE
 "Balochistan","Mastung","186",48,8,3,TRUE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Mastung","186",62,3,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","Mastung","186",76,5,0,FALSE,TRUE,3,0,FALSE,TRUE
@@ -127,6 +169,8 @@
 "Balochistan","Naseerabad","281",31,6,0,FALSE,TRUE,1,1,FALSE,FALSE
 "Balochistan","NUSHKI","367",10,4,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","NUSHKI","367",72,4,1,TRUE,FALSE,1,0,FALSE,TRUE
+"Balochistan","NUSHKI","368",67,1,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","NUSHKI","369",108,2,0,FALSE,TRUE,2,1,TRUE,FALSE
 "Balochistan","NUSHKI","370",10,7,0,FALSE,TRUE,1,0,FALSE,TRUE
 "Balochistan","NUSHKI","370",64,3,3,FALSE,FALSE,3,2,TRUE,FALSE
 "Balochistan","NUSHKI","370",78,1,0,FALSE,TRUE,0,0,FALSE,FALSE
@@ -144,6 +188,13 @@
 "Balochistan","Quetta","314",15,3,2,TRUE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Quetta","314",39,4,2,TRUE,FALSE,0,0,FALSE,FALSE
 "Balochistan","Quetta","314",63,2,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Quetta","317",11,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Quetta","317",59,5,3,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Quetta","317",107,2,1,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Quetta","317",203,3,2,TRUE,FALSE,1,1,FALSE,FALSE
+"Balochistan","Quetta","317",251,5,4,TRUE,FALSE,2,1,TRUE,FALSE
+"Balochistan","Quetta","318",40,2,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Balochistan","Quetta","325",76,3,2,TRUE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Quetta","326",22,2,2,FALSE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Quetta","326",40,5,4,TRUE,FALSE,1,1,FALSE,FALSE
 "Balochistan","Quetta","326",49,2,2,FALSE,FALSE,2,1,TRUE,FALSE
@@ -151,8 +202,14 @@
 "Balochistan","Quetta","327",172,3,0,FALSE,TRUE,1,1,FALSE,FALSE
 "Balochistan","Quetta","328",85,3,2,TRUE,FALSE,0,0,FALSE,FALSE
 "Balochistan","Quetta","328",202,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Quetta","329",131,4,3,TRUE,FALSE,2,2,FALSE,FALSE
+"Balochistan","Quetta","329",170,5,4,TRUE,FALSE,1,1,FALSE,FALSE
 "Balochistan","Quetta","330",30,2,1,TRUE,FALSE,3,3,FALSE,FALSE
 "Balochistan","Quetta","332",19,5,4,TRUE,FALSE,2,2,FALSE,FALSE
+"Balochistan","Quetta","335",84,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Quetta","335",137,3,0,FALSE,TRUE,0,0,FALSE,FALSE
+"Balochistan","Quetta","335",190,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Balochistan","Quetta","335",243,3,2,TRUE,FALSE,0,0,FALSE,FALSE
 "Balochistan","Sibi","420",17,1,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","Sibi","420",49,4,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","Sibi","421",10,1,0,FALSE,TRUE,0,0,FALSE,FALSE
@@ -168,14 +225,22 @@
 "Balochistan","SIBI","419",26,4,2,TRUE,FALSE,0,0,FALSE,FALSE
 "Balochistan","SIBI","425",16,4,4,FALSE,FALSE,1,0,FALSE,TRUE
 "Balochistan","Sohbatpur","284",180,6,0,FALSE,TRUE,3,0,FALSE,TRUE
+"Balochistan","zhob","450",28,10,0,FALSE,TRUE,4,3,TRUE,FALSE
 "Balochistan","Zhob","445",10,2,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","Zhob","445",27,1,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Balochistan","Zhob","445",61,4,4,FALSE,FALSE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Astore","531",109,2,0,FALSE,TRUE,2,1,TRUE,FALSE
 "Gilgit Baltistan","Astore","532",3,4,2,TRUE,FALSE,2,2,FALSE,FALSE
 "Gilgit Baltistan","Astore","534",3,5,4,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Diamer","542",192,5,2,TRUE,FALSE,3,3,FALSE,FALSE
 "Gilgit Baltistan","Diamer","544",32,6,5,TRUE,FALSE,2,2,FALSE,FALSE
 "Gilgit Baltistan","Diamer","547",85,5,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Gilgit Baltistan","Diamer","548",40,5,4,TRUE,FALSE,2,2,FALSE,FALSE
+"Gilgit Baltistan","Diamer","548",94,7,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Diamer","548",148,4,3,TRUE,FALSE,2,1,TRUE,FALSE
+"Gilgit Baltistan","Diamer","550",11,7,6,TRUE,FALSE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Diamer","550",21,5,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Diamer","550",49,6,3,TRUE,FALSE,2,2,FALSE,FALSE
 "Gilgit Baltistan","Diamer","551",5,6,1,TRUE,FALSE,2,0,FALSE,TRUE
 "Gilgit Baltistan","Diamer","551",23,11,0,FALSE,TRUE,9,3,TRUE,FALSE
 "Gilgit Baltistan","Diamer","551",42,6,4,TRUE,FALSE,2,2,FALSE,FALSE
@@ -190,8 +255,10 @@
 "Gilgit Baltistan","Diamer","555",223,6,5,TRUE,FALSE,3,3,FALSE,FALSE
 "Gilgit Baltistan","Diamer","557",194,4,0,FALSE,TRUE,3,3,FALSE,FALSE
 "Gilgit Baltistan","Diamer","557",235,3,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Diamer","560",46,4,4,FALSE,FALSE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Diamer","575",47,6,2,TRUE,FALSE,2,0,FALSE,TRUE
 "Gilgit Baltistan","Diamer","575",85,8,7,TRUE,FALSE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Ghizer","578",2,5,2,TRUE,FALSE,2,0,FALSE,TRUE
 "Gilgit Baltistan","Ghizer","585",2,6,5,TRUE,FALSE,2,2,FALSE,FALSE
 "Gilgit Baltistan","Gilgit","591",54,3,2,TRUE,FALSE,1,1,FALSE,FALSE
 "Gilgit Baltistan","Gilgit","595",7,1,0,FALSE,TRUE,0,0,FALSE,FALSE
@@ -203,6 +270,7 @@
 "Gilgit Baltistan","Gilgit","605",10,2,0,FALSE,TRUE,3,0,FALSE,TRUE
 "Gilgit Baltistan","Gilgit","605",24,2,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Gilgit Baltistan","Gilgit","609",20,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Gilgit Baltistan","Gilgit","611",81,2,2,FALSE,FALSE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Kharmang","492",105,5,5,FALSE,FALSE,4,3,TRUE,FALSE
 "Gilgit Baltistan","Kharmang","493",149,3,0,FALSE,TRUE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Kharmang","494",100,1,0,FALSE,TRUE,0,0,FALSE,FALSE
@@ -216,6 +284,11 @@
 "Gilgit Baltistan","Nagar","623",30,2,1,TRUE,FALSE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Nagar","623",110,3,2,TRUE,FALSE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Nagar","624",51,2,0,FALSE,TRUE,3,1,TRUE,FALSE
+"Gilgit Baltistan","Skardu","511",123,6,6,FALSE,FALSE,4,3,TRUE,FALSE
+"Gilgit Baltistan","Skardu","512",5,3,1,TRUE,FALSE,2,0,FALSE,TRUE
+"Gilgit Baltistan","Skardu","512",186,6,2,TRUE,FALSE,3,2,TRUE,FALSE
+"Gilgit Baltistan","Skardu","513",53,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Gilgit Baltistan","Skardu","513",65,2,1,TRUE,FALSE,0,0,FALSE,FALSE
 "Gilgit Baltistan","Skardu","517",59,4,3,TRUE,FALSE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Skardu","520",181,5,4,TRUE,FALSE,1,0,FALSE,TRUE
 "Gilgit Baltistan","Skardu","520",231,4,3,TRUE,FALSE,0,0,FALSE,FALSE
@@ -223,10 +296,14 @@
 "Gilgit Baltistan","Skardu","522",151,6,5,TRUE,FALSE,1,1,FALSE,FALSE
 "Gilgit Baltistan","Skardu","523",56,3,2,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Abbottabad","729",56,4,0,FALSE,TRUE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Abbottabad","730",81,1,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Abbottabad","731",28,0,0,FALSE,FALSE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Abbottabad","731",56,2,1,TRUE,FALSE,2,2,FALSE,FALSE
 "Khyber PakhtunKhwa","Abbottabad","733",115,3,1,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Abbottabad","736",96,4,0,FALSE,TRUE,2,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Abbottabad","737",24,4,2,TRUE,FALSE,3,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Abbottabad","737",80,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Abbottabad","738",47,3,0,FALSE,TRUE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Abbottabad","739",59,1,0,FALSE,TRUE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Abbottabad","739",110,3,2,TRUE,FALSE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Abbottabad","744",41,4,4,FALSE,FALSE,4,3,TRUE,FALSE
@@ -264,6 +341,8 @@
 "Khyber PakhtunKhwa","DI Khan","698",126,2,1,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","DI Khan","699",8,3,2,TRUE,FALSE,1,1,FALSE,FALSE
 "Khyber PakhtunKhwa","DI Khan","699",68,3,2,TRUE,FALSE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","709",28,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","DI Khan","709",55,4,3,TRUE,FALSE,2,2,FALSE,FALSE
 "Khyber PakhtunKhwa","Dir Lower","820",47,3,1,TRUE,FALSE,1,1,FALSE,FALSE
 "Khyber PakhtunKhwa","Dir Lower","821",12,2,0,FALSE,TRUE,2,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Dir Lower","822",6,2,0,FALSE,TRUE,1,1,FALSE,FALSE
@@ -272,6 +351,7 @@
 "Khyber PakhtunKhwa","Dir Lower","822",82,1,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Dir Lower","822",101,6,0,FALSE,TRUE,4,4,FALSE,FALSE
 "Khyber PakhtunKhwa","Dir Upper","824",7,2,1,TRUE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Haripur","745",22,4,2,TRUE,FALSE,3,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Haripur","746",34,1,0,FALSE,TRUE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Haripur","746",67,4,2,TRUE,FALSE,2,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Haripur","747",105,2,1,TRUE,FALSE,2,0,FALSE,TRUE
@@ -281,8 +361,11 @@
 "Khyber PakhtunKhwa","Haripur","751",64,2,0,FALSE,TRUE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Haripur","753",92,1,0,FALSE,TRUE,1,1,FALSE,FALSE
 "Khyber PakhtunKhwa","Haripur","755",127,1,0,FALSE,TRUE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Khyber","918",7,6,5,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Khyber","919",15,4,1,TRUE,FALSE,2,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Kohat","784",88,3,0,FALSE,TRUE,2,2,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","784",250,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Kohat","787",207,3,3,FALSE,FALSE,2,1,TRUE,FALSE
 "Khyber PakhtunKhwa","Kohat","790",157,2,1,TRUE,FALSE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Kohat","790",275,8,0,FALSE,TRUE,4,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Kohat","796",96,6,3,TRUE,FALSE,0,0,FALSE,FALSE
@@ -291,14 +374,14 @@
 "Khyber PakhtunKhwa","Kohat","797",3,2,1,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","797",28,7,4,TRUE,FALSE,1,1,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","797",123,4,2,TRUE,FALSE,0,0,FALSE,FALSE
-"Khyber PakhtunKhwa","Kohat","798",82,3,2,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","798",82,6,5,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","798",110,8,4,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","798",137,2,1,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","798",166,2,1,TRUE,FALSE,0,0,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","799",6,3,0,FALSE,TRUE,1,1,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","799",11,6,3,TRUE,FALSE,2,2,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","799",16,0,0,FALSE,FALSE,2,0,FALSE,TRUE
-"Khyber PakhtunKhwa","Kohat","800",9,2,0,FALSE,TRUE,2,2,FALSE,FALSE
+"Khyber PakhtunKhwa","Kohat","800",9,3,1,TRUE,FALSE,2,2,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","800",16,3,1,TRUE,FALSE,3,3,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","800",30,6,3,TRUE,FALSE,1,1,FALSE,FALSE
 "Khyber PakhtunKhwa","Kohat","800",38,4,2,TRUE,FALSE,1,1,FALSE,FALSE
@@ -405,6 +488,11 @@
 "Khyber PakhtunKhwa","Peshawar","935",40,0,0,FALSE,FALSE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Peshawar","935",66,5,5,FALSE,FALSE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Peshawar","935",88,5,5,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","936",29,4,3,TRUE,FALSE,1,1,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","936",53,1,1,FALSE,FALSE,2,1,TRUE,FALSE
+"Khyber PakhtunKhwa","Peshawar","936",77,2,1,TRUE,FALSE,0,0,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","937",11,3,2,TRUE,FALSE,3,3,FALSE,FALSE
+"Khyber PakhtunKhwa","Peshawar","937",95,6,0,FALSE,TRUE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Peshawar","938",12,2,1,TRUE,FALSE,1,1,FALSE,FALSE
 "Khyber PakhtunKhwa","Peshawar","938",27,4,2,TRUE,FALSE,2,1,TRUE,FALSE
 "Khyber PakhtunKhwa","Peshawar","938",40,3,2,TRUE,FALSE,1,1,FALSE,FALSE
@@ -448,6 +536,9 @@
 "Khyber PakhtunKhwa","Swabi","902",65,2,0,FALSE,TRUE,2,1,TRUE,FALSE
 "Khyber PakhtunKhwa","Swabi","902",171,4,2,TRUE,FALSE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Swabi","902",224,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swabi","905",12,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swabi","905",27,1,0,FALSE,TRUE,1,0,FALSE,TRUE
+"Khyber PakhtunKhwa","Swabi","905",42,3,3,FALSE,FALSE,2,1,TRUE,FALSE
 "Khyber PakhtunKhwa","Swabi","906",87,1,1,FALSE,FALSE,1,0,FALSE,TRUE
 "Khyber PakhtunKhwa","Swabi","909",33,1,1,FALSE,FALSE,3,1,TRUE,FALSE
 "Khyber PakhtunKhwa","Swabi","912",8,5,2,TRUE,FALSE,2,0,FALSE,TRUE

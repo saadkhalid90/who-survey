@@ -39,7 +39,7 @@ log_formatter_ <- formatter("span",
 
 ## read in the required data
 survey_summ <-
-  read_csv('Data/survey_summ.csv', col_types = "iccciii")
+  read_csv('Data/survey_summ.csv', col_types = "iccciiicccccil")
 survey_hh_summ <-
   read_csv('Data/survey_hh_summ.csv', col_types = "iccciiii")
 prov_cover <-
@@ -73,7 +73,8 @@ formattedSummary <- formattable(
   list(
     n_hh = hh_formatter,
     n_hh_child = hh_eq_formatter,
-    hh_equal = FALSE
+    hh_equal = FALSE,
+    hh_error = log_formatter
   )
 )
 
